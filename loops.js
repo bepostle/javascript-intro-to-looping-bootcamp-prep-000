@@ -24,7 +24,12 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
+  
+  function incrementVariable() {
+  i = i + 1;
+}
+ 
   do {
     
-  } while (incrementVariable() === false)
+  } while ()
 }
